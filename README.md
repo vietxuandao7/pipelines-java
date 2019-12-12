@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/vietxuandaodeveloper/Pipelines-java/_apis/build/status/vietxuandao7.pipelines-java?branchName=master)](https://dev.azure.com/vietxuandaodeveloper/Pipelines-java/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
